@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippleA", "TrippleA.csproj", "{F6BD1F2D-BD14-46CC-8682-98A54A0C0592}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Klassen", "Klassen", "{DF3AC85A-DD6A-4121-8A3A-2F987F123064}"
+	ProjectSection(SolutionItems) = preProject
+		Afrika.cs = Afrika.cs
+		Alaska.cs = Alaska.cs
+		Asien.cs = Asien.cs
+		Lager.cs = Lager.cs
+		Program.cs = Program.cs
+		Tier.cs = Tier.cs
+		Tierbilder.cs = Tierbilder.cs
+		Tiere.cs = Tiere.cs
+		Tierpfleger.cs = Tierpfleger.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{3DB2C9B9-4220-4344-8305-DE4FC1C82CE1}"
+	ProjectSection(SolutionItems) = preProject
+		Form1.cs = Form1.cs
+		Form1.Designer.cs = Form1.Designer.cs
+		Form1.resx = Form1.resx
+		Form2.cs = Form2.cs
+		Form2.Designer.cs = Form2.Designer.cs
+		Form2.resx = Form2.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BD1F2D-BD14-46CC-8682-98A54A0C0592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BD1F2D-BD14-46CC-8682-98A54A0C0592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BD1F2D-BD14-46CC-8682-98A54A0C0592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BD1F2D-BD14-46CC-8682-98A54A0C0592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5680CD66-9197-4234-AD3F-10911BD506E1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\Eigene Dateien\Programmierung\Projekte\Test\bin\Debug\Test.exe.config
+D:\Eigene Dateien\Programmierung\Projekte\Test\bin\Debug\Test.exe
+D:\Eigene Dateien\Programmierung\Projekte\Test\bin\Debug\Test.pdb
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.Form1.resources
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.exe
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.pdb
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.Form2.resources

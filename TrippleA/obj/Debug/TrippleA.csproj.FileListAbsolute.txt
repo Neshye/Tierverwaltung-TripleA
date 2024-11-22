@@ -1,0 +1,44 @@
+D:\Eigene Dateien\Programmierung\Projekte\Test\bin\Debug\Test.exe.config
+D:\Eigene Dateien\Programmierung\Projekte\Test\bin\Debug\Test.exe
+D:\Eigene Dateien\Programmierung\Projekte\Test\bin\Debug\Test.pdb
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\TrippleA.csproj.AssemblyReference.cache
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.Form1.resources
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.Form2.resources
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\TrippleA.csproj.GenerateResource.cache
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\TrippleA.csproj.CoreCompileInputs.cache
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.exe
+D:\Eigene Dateien\Programmierung\Projekte\Test\obj\Debug\Test.pdb
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\bin\Debug\Test.exe.config
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\bin\Debug\Test.exe
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\bin\Debug\Test.pdb
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\obj\Debug\TrippleA.csproj.AssemblyReference.cache
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\obj\Debug\TripleA.Form1.resources
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\obj\Debug\TripleA.Form2.resources
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\obj\Debug\Test.Properties.Resources.resources
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\obj\Debug\TrippleA.csproj.GenerateResource.cache
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\obj\Debug\TrippleA.csproj.CoreCompileInputs.cache
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\obj\Debug\Test.exe
+D:\Eigene Dateien\Programmierung\Projekte\TrippleA\obj\Debug\Test.pdb
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\bin\Debug\Test.exe.config
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\bin\Debug\Test.exe
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\bin\Debug\Test.pdb
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TrippleA.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TripleA.Form1.resources
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TripleA.Form2.resources
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\Test.Properties.Resources.resources
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TrippleA.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TrippleA.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\Test.exe
+D:\OneDrive\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\Test.pdb
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\bin\Debug\Test.exe.config
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\bin\Debug\Test.exe
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\bin\Debug\Test.pdb
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TrippleA.csproj.AssemblyReference.cache
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TripleA.Form1.resources
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TripleA.Form2.resources
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\Test.Properties.Resources.resources
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TrippleA.csproj.GenerateResource.cache
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\TrippleA.csproj.CoreCompileInputs.cache
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\Test.exe
+C:\Users\cl907\Desktop\OneDrive - BITLC Business IT Learning Center GmbH\Projekt\TrippleA\obj\Debug\Test.pdb
